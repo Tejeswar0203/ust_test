@@ -1,0 +1,4 @@
+This is sample file
+for python code
+this is python automation code
+writing all functions
